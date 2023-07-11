@@ -6,7 +6,7 @@
 
 🌱 [Here](http://structuralbiology.bio.uniroma2.it/) you can check my lab's website, with all members and research lines
 
-😺 [Here](https://github.com/bio-dhave/bio-dhave/blob/main/cv_dp.pdf) it is my curriculum vitae!
+😺 [Here](https://github.com/bio-dhave/bio-dhave/blob/main/cv_Pietrafesa-Davide.pdf) it is my curriculum vitae!
 
 
 # Contact me
