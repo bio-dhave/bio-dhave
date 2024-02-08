@@ -1,6 +1,6 @@
 # Hi there, I'm Dave 👋
 
-🔭 I'm currently working as a PhD student at University of Rome Tor Vergata, Italy, in the Materials for Health, Environment and Energy program. I'm a bioinformatician, working especially in the structural bioinformatic field. 
+🔭 I'm currently working as a PhD student at University of Rome Tor Vergata, Italy, in the Materials for Health, Environment and Energy program. I'm a bioinformatician, working especially in the Structural Bioinformatics field. 
 
 🧬 It's the central dogma of biology: the structure-function one. Well, my work is focused on the simulation of proteins and/or nucleic acids (DNAs,RNAs) to better understand how the structure changes influence the specific function.
 
